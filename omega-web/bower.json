@@ -70,7 +70,8 @@
         "angular-locale_en-us.js",
         "angular-locale_zh-cn.js",
         "angular-locale_zh-hk.js",
-        "angular-locale_zh-tw.js"
+        "angular-locale_zh-tw.js",
+        "angular-locale_ko-kr.js"
       ]
     },
     "angular-loader": {
