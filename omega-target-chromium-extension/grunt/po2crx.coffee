@@ -13,3 +13,5 @@ module.exports =
         '../omega-locales/zh_CN/LC_MESSAGES/omega-web.po'
       'build/_locales/zh_TW/messages.json':
         '../omega-locales/zh_TW/LC_MESSAGES/omega-web.po'
+      'build/_locales/ko_KR/messages.json':
+        '../omega-locales/ko_KR/LC_MESSAGES/omega-web.po'
