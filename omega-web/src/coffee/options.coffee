@@ -54,6 +54,7 @@ $script.ready ['angular'], ->
     'zh-cn': 'zh-cn'
     'zh-hk': 'zh-hk'
     'zh-tw': 'zh-tw'
+    'ko-kr': 'ko-kr'
 
   lang = navigator.language
   lang1 = navigator.language?.split('-')[0] || ''
