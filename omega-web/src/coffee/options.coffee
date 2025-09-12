@@ -44,7 +44,7 @@ $script.ready ['angular'], ->
   $script 'lib/angular-sanitize/angular-sanitize.min.js', 'angular-sanitize'
 
   locales =
-    '': 'en-us'
+    '': 'ko-kr'
 
     'en': 'en-us'
 
