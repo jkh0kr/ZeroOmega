@@ -44,16 +44,9 @@ $script.ready ['angular'], ->
   $script 'lib/angular-sanitize/angular-sanitize.min.js', 'angular-sanitize'
 
   locales =
-    '': 'en-us'
+    '': 'ko-kr'
 
-    'en': 'en-us'
-
-    'zh': 'zh-cn'
-    'zh-hans': 'zh-cn'
-    'zh-hant': 'zh-tw'
-    'zh-cn': 'zh-cn'
-    'zh-hk': 'zh-hk'
-    'zh-tw': 'zh-tw'
+    'en': 'ko-kr'
     'ko': 'ko-kr'
 
   lang = navigator.language
